@@ -1,5 +1,5 @@
 # Venus Cloud Restaurant
-![venus_image](https://static.wikia.nocookie.net/solarsystemtour/images/9/9b/Venus_%282%29.jpg)
+<img src="images/venus_restaurant.jpg" width="150" height="150">
 
 ## About Venus
 
@@ -7,4 +7,4 @@
 
 ## Navigation
 
-- [Menu](TODO)
+- [Menu](menu.md)
