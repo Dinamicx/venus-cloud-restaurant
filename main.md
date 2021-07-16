@@ -1,5 +1,5 @@
 # Venus Cloud Restaurant
-<img src="images/venus_restaurant.jpg" width="150" height="150">
+<img src="images/venus_restaurant.jpg" width="40%" height="40%">
 
 ## About Venus
 
@@ -8,3 +8,4 @@
 ## Navigation
 
 - [Menu](menu.md)
+- [About](aboot.md)
