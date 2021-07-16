@@ -11,3 +11,4 @@
 - [Menu](menu.md)
 - [About](aboot.md)
 - [Our Team](team.md)
+- [Contact](contact.md)
