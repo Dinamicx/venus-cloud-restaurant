@@ -1,5 +1,6 @@
 # Krabby Patty Burger
 
+## Ingredients
 - hamburger buns
 - special meat
 - tomato
