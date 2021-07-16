@@ -1,6 +1,6 @@
 # Pizza Quattro Stagioni
 
-<img src="pizza-quattro-stagioni.png" width="40%" height="40%" />
+<img src="images/pizza-quattro-stagioni.png" width="40%" height="40%" />
 
 ## Ingredients
 - tomato sauce
