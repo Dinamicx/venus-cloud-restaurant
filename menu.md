@@ -4,10 +4,10 @@
 
 * [Pancakes](./dishes/dish1.md)
 * [Pizza Quattro Stagioni](./dishes/dish2.md)
-* [Krabby Patty Burger] (TODO)
+* [Krabby Patty Burger] (./dishes/dish3.md)
 * [Pizza 4 Meat](./dishes/dish4.md)
-* [Pizza Venus] (TODO)
-* [Donuts] (TODO)
+* [Pizza Venus] (./dishes/dish5.md)
+* [Donuts] (./dishes/dish6.md)
 
 ## Cocktails
 
