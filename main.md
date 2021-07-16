@@ -9,6 +9,6 @@
 ## Navigation
 
 - [Menu](menu.md)
-- [About](aboot.md)
+- [About](about.md)
 - [Our Team](team.md)
 - [Contact](contact.md)
