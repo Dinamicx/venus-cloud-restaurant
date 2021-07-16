@@ -1,15 +1,15 @@
-# Our Team
+# ~ Our Team ~
 
-## Owner
+### Owner
 - Mr. krabs
 
-## Chef
+### Chef
 - Gordon Ramsay
 
-## Bartenders
+### Bartenders
 - SpongeBob SquarePants
 - Patrick Star
 
-## Waiters
+### Waiters
 - Squidward Tentacles
 - Plankton
