@@ -1,8 +1,8 @@
-Pancakes
+# Pancakes
 
--flour
--eggs
--milk
--sugar
--baking powder
--vanilla
+- flour
+- eggs
+- milk
+- sugar
+- baking powder
+- vanilla
