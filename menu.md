@@ -1,14 +1,17 @@
-# menu
+# ~ Menu ~
 
-## recipes
+## Recipes
 
-* [dish1](./dishes/dish1.md)
-* [dish2](./dishes/dish2.md)
-* [Dish 3] (TODO)
-* [dish4](./dishes/dish4.md)
-* [Dish 5] (TODO)
+* [Pancakes](./dishes/dish1.md)
+* [Pizza Quattro Stagioni](./dishes/dish2.md)
+* [Krabby Patty Burger](./dishes/dish3.md)
+* [Pizza 4 Meat](./dishes/dish4.md)
+* [Pizza Venus](./dishes/dish5.md)
+* [Donuts](./dishes/dish6.md)
 
-## cocktails
+## Cocktails
 
-* [cocktail1](./cocktails/cocktail1.md)
-* [cocktail2](./cocktails/cocktail2.md)
+* [El Diablo](./cocktails/cocktail1.md)
+* [Sex on the beach](./cocktails/cocktail2.md)
+* [Tequila Sunrise](./cocktails/cocktail3.md)
+* [Pina Colada](./cocktails/cocktail4.md)
