@@ -1,5 +1,7 @@
 # Krabby Patty Burger
 
+<img src="../images/dish3.png" width="40%" height="40%" />
+
 ## Ingredients
 - hamburger buns
 - special meat
