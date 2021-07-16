@@ -9,4 +9,4 @@
 - lettuce
 - secret burger sauce
 
-[Go back]](../menu.md)
+[Go back](../menu.md)

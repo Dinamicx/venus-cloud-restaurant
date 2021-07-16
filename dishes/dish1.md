@@ -8,4 +8,4 @@
 - baking powder
 - vanilla
 
-[Go back]](../menu.md)
+[Go back](../menu.md)

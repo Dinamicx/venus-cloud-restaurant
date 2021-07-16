@@ -6,4 +6,4 @@
 - corn, 
 - mozzarella
 
-[Go back]](../menu.md)
+[Go back](../menu.md)
