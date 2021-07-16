@@ -1,5 +1,5 @@
 # ~ Job Openings ~
 
 * [Waiter](TODO)
-* [Cook](/Cook.md)
+* [Cook](Cook.md)
 * [(another) Waiter](TODO)
