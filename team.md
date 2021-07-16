@@ -13,3 +13,6 @@
 ### Waiters
 - Squidward Tentacles
 - Plankton
+
+---
+[Job Openings](./jobs/job-openings.md)

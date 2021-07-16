@@ -6,3 +6,5 @@
 - milk
 - yeast
 - vanilla
+
+[Go back](../menu.md)
