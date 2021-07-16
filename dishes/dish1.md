@@ -1,5 +1,6 @@
 # Pancakes
 
+## Ingredients
 - flour
 - eggs
 - milk
