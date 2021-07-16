@@ -1,6 +1,6 @@
 # Sex on the beach
 
-<img src="images/cocktail2.jpg" width="40%" height="40%" />
+<img src="../images/cocktail2.jpg" width="40%" height="40%" />
 
 - 25 ml Vodka
 - 25 ml Peach Schnapps
