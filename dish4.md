@@ -1,6 +1,4 @@
-# dish 4
-
-## 4 meat Pizza
+# Pizza 4 Meat
 
 - tomato sauce
 - mozarella
