@@ -2,7 +2,7 @@
 
 ## recipes
 
-* [Dish 1] (TODO)
+* [dish1](./dishes/dish1.md)
 * [dish2](./dishes/dish2.md)
 * [Dish 3] (TODO)
 * [dish4](./dishes/dish4.md)
