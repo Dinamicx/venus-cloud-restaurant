@@ -1,4 +1,4 @@
-#Sex on the beach
+# Sex on the beach
 
 - 25 ml Vodka
 - 25 ml Peach Schnapps
