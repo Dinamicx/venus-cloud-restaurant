@@ -1,5 +1,7 @@
 # Pancakes
 
+<img src="../images/dish1.webp" width="40%" height="40%" />
+
 ## Ingredients
 - flour
 - eggs
