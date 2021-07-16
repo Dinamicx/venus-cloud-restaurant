@@ -2,7 +2,7 @@
 
 ## Recipes
 
-* [Pancakes] (TODO)
+* [Pancakes](./dishes/dish1.md)
 * [Pizza Quattro Stagioni](./dishes/dish2.md)
 * [Krabby Patty Burger] (TODO)
 * [Pizza 4 Meat](./dishes/dish4.md)
